@@ -1,6 +1,6 @@
 ### Hola 👋, Soy *Carol*;
-#### Soy Full Stack Developer.-
-![Soy Full Stack Developer.-](https://www.webindesigns.net/assets/images/imagen-en-movimiento.gif)
+#### Full Stack Developer.-
+![Full Stack Developer.-](https://www.webindesigns.net/assets/images/imagen-en-movimiento.gif)
 
 Holaa!!! soy Carol, emprendedora por naturaleza, optimista, incansable a la hora de aprender y buscar nuevos desafíos. Justamente me encuentro cursando uno muy importante, me propuse ser developer y lo logre!!!
 
