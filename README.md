@@ -11,5 +11,5 @@ Habilidades: JAVASCRIPT / REACT.JS / REDUX / HTML / CSS / POSTGRESS/ EXPRESS/ NO
 - ⚡ Dato curioso: Amo los libros, leo cuanto cae en mis manos... 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/carol-navia-developer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/navia.carol/saved//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/carol-navia-developer//) 
 
